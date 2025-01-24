@@ -46,6 +46,9 @@ Tic-Tac-Toe is a simple two-player game where the objective is to get three of y
 - **Game History**: View the history of moves made during the game.
 - **Winning Status**: Check who is currently winning the game.
 
+![image](https://github.com/user-attachments/assets/9be7beea-7fac-4a54-b3f7-a892bac0d982)
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
@@ -57,3 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+
