@@ -1,4 +1,4 @@
-## Game Description
+## Tic-Tac-Toe | Classic Arcade Game
 
 Tic-Tac-Toe is a simple two-player game where the objective is to get three of your marks in a row (horizontally, vertically, or diagonally) on a 3x3 grid. Players can update their names, check the game history, and see who is winning.
 
